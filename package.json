@@ -1,12 +1,11 @@
 {
-  "name": "tuto",
+  "name": "grocery-managment",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Mohamed Yessine Baananou",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baananou/Grocery-CRUD-Backend-MVR-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Baananou/Grocery-CRUD-Backend-MVR-/issues"
+  },
+  "homepage": "https://github.com/Baananou/Grocery-CRUD-Backend-MVR-#readme",
+  "description": ""
 }
